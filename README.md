@@ -1,4 +1,4 @@
-# rfcbot
+# rfcbot2
 
 [rfcbot](https://github.com/rfcbot) manages asynchronous decision making on Rust issues and PRs. Status of Final Comment Periods can be viewed on [the relevant dashboard page](http://rfcbot.rs).
 
